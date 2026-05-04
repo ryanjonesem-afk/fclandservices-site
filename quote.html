@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Request a Quote | Free Estimates | Fountain City Land Services</title>
+  <meta name="description" content="Request a free estimate from Fountain City Land Services — land services, driveway restoration, grading, rural property cleanup, SWPPP, BMP, and environmental services in Spring Hill, Johnson County, Miami County, and the Kansas City metro.">
+  <link rel="canonical" href="https://www.fclandservices.com/quote.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800&family=Libre+Baskerville:ital,wght@0,400;1,400&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="icon" href="assets/images/favicon.ico">
+<style>
+.quote-page { background:var(--off-white); padding:60px; }
+.quote-page-inner { max-width:1100px; margin:0 auto; display:grid; grid-template-columns:1fr 360px; gap:60px; align-items:start; }
+.quote-form-panel { background:#fff; border:1px solid var(--warm-gray); border-radius:6px; padding:48px; }
+.quote-form-panel h2 { font-family:"Barlow Condensed",sans-serif; font-weight:800; font-size:32px; color:var(--charcoal-dark); margin-bottom:8px; }
+.quote-form-panel > p { font-size:15px; color:var(--text-mid); font-weight:300; line-height:1.65; margin-bottom:36px; }
+.pf-grid { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+.pf-group { display:flex; flex-direction:column; gap:6px; }
+.pf-group.full { grid-column:1/-1; }
+.pf-group label { font-family:"Barlow Condensed",sans-serif; font-weight:600; font-size:11px; letter-spacing:1.5px; text-transform:uppercase; color:var(--text-light); }
+.pf-group label .req { color:var(--green); }
+.pf-group input,.pf-group select,.pf-group textarea { background:var(--off-white); border:1px solid var(--warm-gray); border-radius:3px; padding:12px 14px; color:var(--text-dark); font-family:"Barlow",sans-serif; font-size:14px; font-weight:300; outline:none; transition:border-color 0.2s; width:100%; }
+.pf-group input:focus,.pf-group select:focus,.pf-group textarea:focus { border-color:var(--green); background:#fff; }
+.pf-group input::placeholder,.pf-group textarea::placeholder { color:var(--text-light); }
+.pf-group textarea { resize:vertical; min-height:110px; }
+.pf-helper { font-size:12px; color:var(--text-light); font-weight:300; margin-top:4px; line-height:1.5; }
+.pf-submit { margin-top:24px; width:100%; background:var(--green); color:#fff; border:none; padding:17px; font-family:"Barlow Condensed",sans-serif; font-weight:700; font-size:15px; letter-spacing:2px; text-transform:uppercase; border-radius:3px; cursor:pointer; transition:background 0.2s; }
+.pf-submit:hover { background:var(--green-dark); }
+.pf-note { margin-top:14px; font-size:12px; color:var(--text-light); font-weight:300; text-align:center; line-height:1.5; }
+.pf-note a { color:var(--green); text-decoration:none; }
+.quote-sidebar { display:flex; flex-direction:column; gap:20px; position:sticky; top:88px; }
+.sidebar-card { background:#fff; border:1px solid var(--warm-gray); border-radius:6px; padding:28px; }
+.sidebar-card h4 { font-family:"Barlow Condensed",sans-serif; font-weight:700; font-size:17px; color:var(--charcoal-dark); margin-bottom:16px; }
+.contact-row { display:flex; align-items:center; gap:12px; margin-bottom:12px; }
+.contact-row:last-child { margin-bottom:0; }
+.contact-row-icon { width:36px; height:36px; background:var(--off-white); border-radius:4px; display:flex; align-items:center; justify-content:center; font-size:15px; flex-shrink:0; }
+.contact-row-text a,.contact-row-text span { display:block; font-size:14px; color:var(--text-dark); text-decoration:none; transition:color 0.2s; }
+.contact-row-text a:hover { color:var(--green); }
+.contact-row-text small { font-size:11px; color:var(--text-light); font-weight:300; }
+.expect-list { list-style:none; display:flex; flex-direction:column; gap:10px; }
+.expect-list li { font-size:14px; color:var(--text-mid); display:flex; gap:10px; align-items:flex-start; font-weight:300; line-height:1.5; }
+.expect-list li::before { content:"✓"; color:var(--green); font-weight:700; font-size:13px; flex-shrink:0; margin-top:1px; }
+.area-chips { display:flex; flex-wrap:wrap; gap:8px; margin-top:8px; }
+.area-chip { background:var(--off-white); border:1px solid var(--warm-gray); color:var(--text-mid); font-size:12px; font-weight:300; padding:4px 10px; border-radius:2px; }
+@media(max-width:960px){ .quote-page{padding:40px 24px;} .quote-page-inner{grid-template-columns:1fr;} .quote-sidebar{position:static;} .quote-form-panel{padding:28px 20px;} .pf-grid{grid-template-columns:1fr;} }
+</style>
+</head><body>
+<nav>
+  <a href="index.html" class="nav-logo">
+    <img src="assets/images/logo.png" alt="Fountain City Land Services logo"
+         onerror="this.style.display='none';this.nextElementSibling.style.display='block'">
+    <div class="nav-logo-fallback">FOUNTAIN CITY<span>LAND SERVICES</span></div>
+  </a>
+  <ul class="nav-links">
+    <li><a href="services.html">Services</a></li>
+    <li><a href="environmental.html">SWPPP &amp; Environmental</a></li>
+    <li><a href="projects.html">Projects</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="quote.html" class="nav-cta active">Get a Quote</a></li>
+  </ul>
+  <div class="nav-hamburger" onclick="toggleMenu()"><span></span><span></span><span></span></div>
+</nav>
+<div class="mobile-menu" id="mobileMenu">
+  <a href="services.html">Services</a>
+  <a href="environmental.html">SWPPP &amp; Environmental</a>
+  <a href="projects.html">Projects</a>
+  <a href="about.html">About</a>
+  <a href="quote.html" class="mobile-cta">Get a Quote</a>
+</div>
+<div class="page-hero" style="padding-bottom:56px;"><div class="page-hero-bg"></div>
+<div class="page-hero-inner">
+  <div class="section-label">Free Estimates</div>
+  <h1>Request a Quote</h1>
+  <p>Describe your project and we'll get back to you promptly with an honest estimate. No runaround, no pressure.</p>
+</div></div>
+
+<div class="quote-page">
+<div class="quote-page-inner">
+  <div class="quote-form-panel">
+    <h2>Tell Us About Your Project</h2>
+    <p>The more detail you provide, the more accurate and useful our estimate will be. All fields marked <span style="color:var(--green);">*</span> are required.</p>
+    <p style="font-size:14px;color:var(--green);font-weight:500;margin-bottom:28px;">Most estimates are provided within 24 hours.</p>
+
+    <!-- FORMSPREE INTEGRATION:
+         1. Go to formspree.io and create a free account
+         2. Create a new form — copy your form ID
+         3. Replace YOUR_FORM_ID below with your actual ID
+         That's it. Formspree handles delivery to quotes@fclandservices.com -->
+    <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+      <input type="hidden" name="_subject" value="New Quote Request — Fountain City Land Services">
+      <input type="hidden" name="_next" value="https://www.fclandservices.com/thank-you.html">
+      <input type="text" name="_gotcha" style="display:none">
+      <div class="pf-grid">
+        <div class="pf-group"><label>First Name <span class="req">*</span></label><input type="text" name="first_name" placeholder="First name" required></div>
+        <div class="pf-group"><label>Last Name <span class="req">*</span></label><input type="text" name="last_name" placeholder="Last name" required></div>
+        <div class="pf-group"><label>Phone <span class="req">*</span></label><input type="tel" name="phone" placeholder="913-555-0100" required></div>
+        <div class="pf-group"><label>Email</label><input type="email" name="email" placeholder="you@example.com"></div>
+        <div class="pf-group"><label>Company / Organization</label><input type="text" name="company" placeholder="Optional"></div>
+        <div class="pf-group"><label>Best Time to Reach You</label>
+          <select name="call_time">
+            <option value="">Select...</option>
+            <option>Morning (before noon)</option>
+            <option>Afternoon (12–5 pm)</option>
+            <option>Evening (after 5 pm)</option>
+            <option>Anytime — text is fine</option>
+          </select>
+        </div>
+        <div class="pf-group full"><label>Property / Job Location <span class="req">*</span></label><input type="text" name="address" placeholder="Street address, city, or general area" required></div>
+        <div class="pf-group full">
+          <label>Service Needed <span class="req">*</span></label>
+          <select name="service" required>
+            <option value="">Select a service...</option>
+            <optgroup label="Land Services">
+              <option>Driveway Restoration / Gravel Work</option>
+              <option>Grading &amp; Leveling</option>
+              <option>General Dirt Work</option>
+              <option>Brush / Debris Cleanup</option>
+              <option>Fence Line Cleanup / Clearing</option>
+              <option>Light Land Clearing</option>
+              <option>Stump Grinding</option>
+              <option>Harley Rake / Seedbed Prep</option>
+              <option>Acreage Mowing / Field Cleanup</option>
+              <option>Rock / Debris Cleanup</option>
+              <option>Material Spreading / Relocation</option>
+              <option>Hay Bale / Material Moving</option>
+              <option>Rural Property Cleanup</option>
+              <option>Multiple Land Services</option>
+            </optgroup>
+            <optgroup label="SWPPP &amp; Environmental">
+              <option>SWPPP Management &amp; Inspections</option>
+              <option>BMP Installation</option>
+              <option>BMP Maintenance</option>
+              <option>Erosion Control</option>
+              <option>Environmental Field Documentation</option>
+              <option>Soil / Groundwater Sampling Support</option>
+              <option>Environmental Incident Response</option>
+              <option>Remediation Support / Oversight</option>
+              <option>Other Environmental Support</option>
+            </optgroup>
+            <option value="unsure">Not Sure — Help Me Figure It Out</option>
+          </select>
+          <p class="pf-helper">Need more than one service? Select the closest match and describe everything in the project description below.</p>
+        </div>
+        <div class="pf-group full"><label>Project Timeline</label>
+          <select name="timeline">
+            <option value="">Select...</option>
+            <option>As soon as possible</option>
+            <option>Within 2 weeks</option>
+            <option>Within the next month</option>
+            <option>1–3 months out</option>
+            <option>Planning ahead — flexible</option>
+          </select>
+        </div>
+        <div class="pf-group full"><label>Project Description <span class="req">*</span></label>
+          <textarea name="description" placeholder="Describe your project — site conditions, approximate size or scope, urgency, and anything else that helps us understand what you need." required></textarea>
+        </div>
+        <div class="pf-group full"><label>Access or Site Conditions to Know About?</label>
+          <textarea name="access" style="min-height:70px;" placeholder="Gates, low overhead, wet or steep ground, neighboring property concerns, active construction, etc."></textarea>
+        </div>
+      </div>
+      <button type="submit" class="pf-submit">Submit Quote Request &rarr;</button>
+      <p class="pf-note">We typically respond within one business day. For urgent needs, call or text Ryan at <a href="tel:9137320069">913-732-0069</a>.</p>
+    </form>
+  </div>
+
+  <div class="quote-sidebar">
+    <div class="sidebar-card">
+      <h4>Contact Ryan Directly</h4>
+      <div class="contact-row"><div class="contact-row-icon">&#9990;</div><div class="contact-row-text"><a href="tel:9137320069">913-732-0069</a><small>Call or text — both work</small></div></div>
+      <div class="contact-row"><div class="contact-row-icon">@</div><div class="contact-row-text"><a href="mailto:quotes@fclandservices.com">quotes@fclandservices.com</a><small>For detailed project inquiries</small></div></div>
+      <div class="contact-row"><div class="contact-row-icon">&#9675;</div><div class="contact-row-text"><span>Spring Hill, KS</span><small>Serving KC metro, Johnson &amp; Miami County</small></div></div>
+    </div>
+    <div class="sidebar-card">
+      <h4>What to Expect</h4>
+      <ul class="expect-list">
+        <li>Response within one business day — often same day</li>
+        <li>A specific, honest estimate — not a vague range</li>
+        <li>Clear scope before any work begins</li>
+        <li>One point of contact from estimate through completion</li>
+        <li>No pressure, no hidden fees</li>
+      </ul>
+    </div>
+    <div class="sidebar-card">
+      <h4>Service Area</h4>
+      <p style="font-size:13px;color:var(--text-mid);font-weight:300;margin-bottom:12px;line-height:1.5;">Based in Spring Hill, KS. Land services focused on Johnson County, Miami County, and the Kansas City metro. Environmental consulting and compliance work considered throughout Kansas, Missouri, and surrounding states — travel is project-dependent.</p>
+      <div class="area-chips">
+        <span class="area-chip">Spring Hill</span><span class="area-chip">Olathe</span>
+        <span class="area-chip">Gardner</span><span class="area-chip">Edgerton</span>
+        <span class="area-chip">Paola</span><span class="area-chip">Louisburg</span>
+        <span class="area-chip">Ottawa</span><span class="area-chip">Lenexa</span>
+        <span class="area-chip">Shawnee</span><span class="area-chip">Overland Park</span>
+        <span class="area-chip">KC Metro</span><span class="area-chip">Lee's Summit</span>
+        <span class="area-chip">Belton</span><span class="area-chip">Raymore</span>
+      </div>
+      <p style="font-size:12px;color:var(--text-light);font-weight:300;margin-top:12px;">Outside the area? Call to discuss — we're flexible for the right project.</p>
+    </div>
+  </div>
+</div>
+</div>
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <img src="assets/images/logo.png" alt="Fountain City Land Services" onerror="this.style.display='none'">
+      <p>Serving Spring Hill, Johnson County, Miami County, the Kansas City metro, and surrounding Kansas and Missouri communities.</p>
+    </div>
+    <div class="footer-col"><h4>Land Services</h4><ul>
+      <li><a href="services.html">Driveway Restoration</a></li>
+      <li><a href="services.html">Grading &amp; Leveling</a></li>
+      <li><a href="services.html">Rural Property Cleanup</a></li>
+      <li><a href="services.html">Brush Clearing</a></li>
+    </ul></div>
+    <div class="footer-col"><h4>Environmental</h4><ul>
+      <li><a href="environmental.html">SWPPP Management</a></li>
+      <li><a href="environmental.html">BMP Services</a></li>
+      <li><a href="environmental.html">Erosion Control</a></li>
+      <li><a href="environmental.html">Incident Response</a></li>
+    </ul></div>
+    <div class="footer-col"><h4>Contact</h4><ul>
+      <li><a href="tel:9137320069">913-732-0069</a></li>
+      <li><a href="mailto:quotes@fclandservices.com">quotes@fclandservices.com</a></li>
+      <li><span>Spring Hill, KS &amp; KC Metro</span></li>
+      <li><a href="quote.html">Request a Quote</a></li>
+    </ul></div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; 2025 Fountain City Land Services &middot; Spring Hill, KS</p>
+    <a href="mailto:quotes@fclandservices.com">quotes@fclandservices.com</a>
+  </div>
+</footer>
+<script>function toggleMenu(){document.getElementById('mobileMenu').classList.toggle('open');}</script>
+</body></html>
