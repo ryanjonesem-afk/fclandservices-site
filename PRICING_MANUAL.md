@@ -84,7 +84,7 @@ All pricing reflects realistic 2026 Kansas City metro market rates for a profess
 | 5 | Brush pile removal | per pile (pickup-truck size) | $185 | $275 | $425 | $450 |
 | 6 | Fence line cleanup | per linear foot | $4.50 | $7.50 | $14 | $750 |
 | 7 | Acreage mowing | per acre | $145 | $195 | $295 | $450 |
-| 8 | Brush cutting (heavy) | per hour | $215 | $235 | $275 | $650 |
+| 8 | Brush cutting (heavy) | per hour | $215 | $235 | $275 | $850 |
 | 9 | Stump grinding | per inch diameter | $5 | $7 | $11 | $185 |
 | 10 | Small tree removal | per tree | $185 | $385 | $850 | $450 |
 | 11 | Small demolition | per project | $850 | $2,450 | $6,500 | $850 |
@@ -95,6 +95,7 @@ All pricing reflects realistic 2026 Kansas City metro market rates for a profess
 | 16 | Loader work | per hour | $165 | $185 | $215 | $450 |
 | 17 | Dirt work | per hour | $175 | $195 | $235 | $650 |
 | 18 | Skid steer hourly (general) | per hour | $165 | $185 | $215 | $450 |
+| 19 | Driveway culvert repair | per project | $850 | $1,650 | $4,500 | $850 |
 
 ### 1.5 Material Pricing (Delivered & Spread)
 
@@ -179,6 +180,15 @@ The structure below maps directly into Jobber's "Products & Services" library. U
 **Description:** Reshape and re-crown an existing gravel drive for proper drainage and a smooth ride.
 **Recommended Add-ons:** Gravel top dressing, drainage correction
 **Internal Notes:** 2-hr minimum. Most jobs 2–4 hrs. Push gravel-add-on at quote.
+
+---
+
+**Service Name:** Driveway Culvert Repair
+**Unit Type:** Per project
+**Suggested Base Price:** $1,650 (typical residential culvert)
+**Description (customer-facing):** Repair, replace, or extend driveway culverts using tracked Bobcat equipment. Includes excavation, pipe work, backfill, and gravel restoration to keep your driveway draining properly. Owner-operated. Free quotes.
+**Recommended Add-ons:** Gravel top dressing, embankment regrade, AB-3 driveway refresh
+**Internal Notes:** Most residential jobs $1,200–$2,500 (12–18" HDPE, 15–20 ft span). Confirm pipe size and condition on-site. Material pass-through plus 25–35% markup. Half day to full day typical. $850 minimum. Best Attachment: standard bucket. Quote Confidence: Low — site visit recommended.
 
 ---
 
@@ -280,21 +290,18 @@ The structure below maps directly into Jobber's "Products & Services" library. U
 
 ---
 
-**Service Name:** Minor Drainage Correction
-**Unit Type:** Per project
-**Suggested Base Price:** $1,450
-**Description:** Targeted correction of standing-water issues — swale shaping, surface drainage, low-spot fill, or culvert assistance.
-**Recommended Add-ons:** Material supply, French drain rock
-**Internal Notes:** Walk site before quoting. Avoid jobs requiring engineered designs. Profitable when paired with grading work.
+> **Note:** "Material Spreading" (mulch / topsoil / decorative rock) is no longer offered as a stand-alone customer-facing service. It remains an internal cost component bundled inside Driveway Refresh, Light Grading, and other applicable services. Internal cost reference: $35–$75/ton plus delivered material at 25–35% markup.
 
 ---
 
-**Service Name:** Material Spreading (Mulch / Topsoil / Decorative Rock)
-**Unit Type:** Per yard or ton
-**Suggested Base Price:** $55/ton or $65/yd
-**Description:** Bulk material delivery and professional spreading using skid steer.
-**Recommended Add-ons:** Light grading, edge prep
-**Internal Notes:** Charge separately for material + spread. Always quote material with markup.
+### CATEGORY: SPECIALTY / PROJECT SERVICES (SECONDARY)
+
+**Service Name:** Minor Drainage Correction
+**Unit Type:** Per project
+**Suggested Base Price:** $1,450
+**Description:** Project-style correction of standing-water issues — swale shaping, surface drainage, or low-spot fill — performed with tracked Bobcat equipment when paired with other property work.
+**Recommended Add-ons:** Material supply, French drain rock, gravel top dressing
+**Internal Notes:** Secondary service — do not lead residential marketing with this. Walk site before quoting. Avoid jobs requiring engineered designs or stamped plans. Profitable only when paired with driveway, grading, or culvert work. Quote Confidence: Low — site visit required.
 
 ---
 
@@ -452,6 +459,44 @@ A field-ready estimating reference. Use these tables in the truck or on-site for
 | Large | 11–20 | $1,450 | Includes light grading touch-up |
 | Driveway-wide | 20+ | Refer to "Driveway Refresh" instead |
 
+### 3.9 Driveway Culvert Repair — By Project Type
+
+| Project Type | Typical Price | Notes |
+|--------------|---------------|-------|
+| Small repair / partial replacement | $850–$1,200 | Existing pipe re-set, minor regrade |
+| Standard 12–18" residential culvert (15–20 ft span) | $1,200–$2,500 | Full pipe replacement, backfill, gravel restoration |
+| Culvert extension or enlargement | $2,200–$3,500 | New pipe + headwall work |
+| Large or deep install | $3,500–$4,500+ | Quote on-site; embankment work |
+
+### 3.10 Best Attachment, Production Time & Quote Confidence Reference
+
+Field reference for the seven priority residential services. Use to set expectations and decide whether a remote, photo-based, or site-visit quote is appropriate.
+
+| Service | Best Attachment | Typical Production Time | Quote Confidence | Photo Potential |
+|---------|-----------------|--------------------------|-------------------|-----------------|
+| Driveway refresh | Standard bucket | 4–8 hrs / 100–250 ft drive | High (remote OK with photos + length) | High — before/after wins |
+| Pothole repair | Standard bucket | 1–4 hrs / 2–10 holes | High (remote OK) | High |
+| Acreage mowing | Brush cutter | ~30 min/acre light, ~45 min/acre tall | High (remote OK with acreage + density) | Medium |
+| Brush pile removal | Grapple | 2–4 hrs / pickup-truck pile | Medium (photos required) | High |
+| Fence line cleanup | Brush cutter / grapple | 60–120 ft/hr by density | Medium (photos required) | High |
+| Stump grinding | Stump grinder | 15–45 min per stump (by diameter) | High (remote OK with diameter) | Medium |
+| Storm cleanup | Grapple | 4–8 hrs / typical residential | Medium (photos required; 4-hr min) | High |
+| Driveway culvert repair | Standard bucket | Half day to 1 full day | Low (site visit required) | Medium |
+| Small demolition | Grapple | Half day to 1 full day per structure | Low (site visit required) | High |
+| Light grading | Standard bucket / Harley rake | 4–8 hrs typical | Medium (photos required) | Medium |
+| Minor drainage correction | Standard bucket | 1 day typical | Low (site visit required) | Low |
+
+**Difficulty Modifier guidance** (apply to internal pricing, not customer-facing):
+- Easy / open access / firm ground: ×1.0
+- Medium / partial access / soft ground: ×1.10
+- Hard / tight access / steep or saturated: ×1.20–1.25
+- Severe / hand work or high risk: ×1.30+ (or refer)
+
+**Quote Confidence definitions:**
+- **High** — remote quote acceptable with basic info (length, acreage, count)
+- **Medium** — photos required before sending firm quote
+- **Low** — on-site walk-through required
+
 ---
 
 # SECTION 4 — MINIMUM CHARGES
@@ -464,6 +509,8 @@ A field-ready estimating reference. Use these tables in the truck or on-site for
 | Rural / acreage small job | $650 | Longer travel, larger machine setup |
 | Single pothole | $185 | One-stop visit, paired or solo |
 | Single stump | $185 | Same — visit-driven |
+| Heavy brush cutting | $850 | Higher minimum due to attachment wear and fuel burn |
+| Driveway culvert repair | $850 | Project-based, includes excavation + materials pass-through |
 | Half-day rate | $625 | 4 hrs on-site + mobilization |
 | Full-day rate | $1,200 | 8 hrs on-site + mobilization |
 | Emergency / 48-hr response | $750 | Plus 25% rush surcharge |
@@ -564,11 +611,17 @@ A practical truth for an owner-operator: **profit per day, not per job.** A $1,2
 
 ### 6.1 Recommended First-Push Services (Residential)
 
-1. **Gravel driveway refresh** — universal need, visible result
+These are the seven priority residential services that should lead all customer-facing materials, marketing, and Facebook posting. **Free quotes** language should accompany every push.
+
+1. **Gravel driveway repair** — universal need, visible result, photo-friendly
 2. **Pothole repair** — fast, low-friction yes
-3. **Brush pile removal** — every rural homeowner needs it
-4. **Storm cleanup** — react to weather events
-5. **Acreage mowing** — recurring revenue base
+3. **Acreage mowing** — recurring revenue base
+4. **Brush cleanup / brush pile removal** — every rural homeowner needs it
+5. **Fence line cleanup** — high ticket, project-style
+6. **Stump grinding** — premium $/hr, easy to bundle
+7. **Storm cleanup** — surge revenue, reactive
+
+> Grading and drainage work are intentionally de-emphasized in residential-facing marketing. They remain available as project / specialty work but should not lead the website, Facebook posts, or door hangers.
 
 ### 6.2 Best Lead Generation Angles
 
@@ -919,6 +972,29 @@ After every job:
 - **W-9 / COI** ready to send within 1 hour of any commercial customer request.
 - **Kansas One-Call** before any digging, every time.
 - **Photo documentation** of pre-existing damage before starting any sensitive job (lawns, near septic, near structures).
+
+### 10.9 Jobber Custom Fields (Recommended)
+
+Configure these as custom fields inside Jobber to capture the operational data needed for accurate quoting, scheduling, and post-job analysis:
+
+| Custom Field | Type | Purpose |
+|--------------|------|---------|
+| Access Difficulty | Dropdown (Easy / Medium / Hard / Severe) | Drives the difficulty modifier |
+| Ground Conditions | Dropdown (Dry / Soft / Saturated / Frozen) | Drives reschedule risk |
+| Estimated Tons | Number | Driveway and material work |
+| Estimated Dump Loads | Number | Brush, demo, cleanup pricing |
+| Travel Zone | Dropdown (0–25 / 25–40 / 40–60 / 60+ mi) | Drives mobilization fee |
+| Attachment Needed | Dropdown (Bucket / Grapple / Brush Cutter / Harley Rake / Stump Grinder / Auger / Forks) | Schedules right attachment |
+| Utility Locate Required | Yes / No | One-Call trigger |
+| Photos Uploaded | Yes / No | Quote confidence flag |
+| Customer Priority | Dropdown (Standard / Same Week / Emergency) | Drives surcharge logic |
+| Quote Confidence | Dropdown (High / Medium / Low) | High = remote OK; Medium = photos required; Low = site visit |
+
+### 10.10 Jobber Tags (Recommended)
+
+Use tags for filtering, reporting, and identifying high-margin or recurring work:
+
+`Driveway`, `Potholes`, `Cleanup`, `Storm`, `Brush`, `Fence Line`, `Acreage`, `Stump`, `Tree`, `Drainage`, `Demolition`, `Recurring`, `High Margin`, `Emergency`, `Bundle`, `Rural`, `Residential`, `Material Delivery`, `Recurring Maintenance`
 
 ---
 
