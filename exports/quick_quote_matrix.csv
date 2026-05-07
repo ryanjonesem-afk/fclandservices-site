@@ -1,0 +1,80 @@
+Service,Variable,Detail,Customer Price,Notes
+Gravel Driveway Refresh,Length: 50 ft,4-5 tons,$650.00,"Minimum charge applies. AB-3, 2 in depth, 10 ft wide."
+Gravel Driveway Refresh,Length: 100 ft,8-10 tons,"$1,150.00 - $1,450.00","AB-3, 2 in depth, 10 ft wide."
+Gravel Driveway Refresh,Length: 150 ft,12-15 tons,"$1,650.00 - $2,150.00","AB-3, 2 in depth, 10 ft wide."
+Gravel Driveway Refresh,Length: 200 ft,16-20 tons,"$2,150.00 - $2,850.00","AB-3, 2 in depth, 10 ft wide."
+Gravel Driveway Refresh,Length: 300 ft,24-30 tons,"$3,150.00 - $4,300.00","AB-3, 2 in depth, 10 ft wide."
+Gravel Driveway Refresh,Length: 500 ft,40-50 tons,"$5,200.00 - $7,200.00","AB-3, 2 in depth, 10 ft wide."
+Gravel Driveway Refresh,Length: 1000 ft,80-100 tons,"$10,400.00 - $14,500.00","AB-3, 2 in depth, 10 ft wide. Add 20% for 12-ft drives. Add 50% for 4-in rebuild."
+Acreage Mowing,0.5 acre,Light grass,$450.00,Minimum charge applies.
+Acreage Mowing,1 acre,Light grass,$175.00,Per acre rate; minimum may apply.
+Acreage Mowing,2 acres,Light grass,$325.00,
+Acreage Mowing,3 acres,Light grass,$475.00,
+Acreage Mowing,5 acres,Light grass,$775.00,
+Acreage Mowing,10 acres,Light grass,"$1,450.00",
+Acreage Mowing,20 acres,Light grass,"$2,750.00",
+Acreage Mowing,0.5 acre,Tall grass / pasture,$450.00,Minimum charge applies.
+Acreage Mowing,1 acre,Tall grass / pasture,$235.00,
+Acreage Mowing,2 acres,Tall grass / pasture,$425.00,
+Acreage Mowing,3 acres,Tall grass / pasture,$625.00,
+Acreage Mowing,5 acres,Tall grass / pasture,"$1,050.00",
+Acreage Mowing,10 acres,Tall grass / pasture,"$1,975.00",
+Acreage Mowing,20 acres,Tall grass / pasture,"$3,750.00",
+Acreage Mowing,0.5 acre,Heavy brush,$650.00,Rural minimum applies.
+Acreage Mowing,1 acre,Heavy brush,$385.00,
+Acreage Mowing,2 acres,Heavy brush,$725.00,
+Acreage Mowing,3 acres,Heavy brush,"$1,050.00",
+Acreage Mowing,5 acres,Heavy brush,"$1,725.00",
+Acreage Mowing,10 acres,Heavy brush,"$3,250.00",
+Acreage Mowing,20 acres,Heavy brush,"$6,250.00",
+Fence Line Cleanup,0-250 ft,Light overgrowth,$4.50/ft ($750 min),"Light: grass, vines, growth under 1 in."
+Fence Line Cleanup,0-250 ft,Medium overgrowth,$7.50/ft ($750 min),"Medium: mixed brush, woody growth up to 2 in."
+Fence Line Cleanup,0-250 ft,Heavy / saplings,$14.00/ft ($750 min),"Heavy: saplings 2-3 in, dense undergrowth."
+Fence Line Cleanup,250-500 ft,Light overgrowth,$4.50/ft,
+Fence Line Cleanup,250-500 ft,Medium overgrowth,$7.50/ft,
+Fence Line Cleanup,250-500 ft,Heavy / saplings,$14.00/ft,
+Fence Line Cleanup,500-1000 ft,Light overgrowth,$4.25/ft,
+Fence Line Cleanup,500-1000 ft,Medium overgrowth,$7.00/ft,
+Fence Line Cleanup,500-1000 ft,Heavy / saplings,$13.00/ft,
+Fence Line Cleanup,1000-2500 ft,Light overgrowth,$3.95/ft,
+Fence Line Cleanup,1000-2500 ft,Medium overgrowth,$6.50/ft,
+Fence Line Cleanup,1000-2500 ft,Heavy / saplings,$12.00/ft,
+Fence Line Cleanup,2500+ ft,Any density,Quote on-site,Walk site before quoting.
+Stump Grinding,Up to 6 in,Single stump,$185.00,Minimum visit charge.
+Stump Grinding,8 in,Single stump,$185.00,Minimum visit charge.
+Stump Grinding,12 in,Single stump,$185.00,Minimum visit charge.
+Stump Grinding,18 in,Single stump,$215.00,
+Stump Grinding,24 in,Single stump,$285.00,
+Stump Grinding,30 in,Single stump,$355.00,
+Stump Grinding,36 in,Single stump,$425.00,
+Stump Grinding,48 in,Single stump,$565.00,
+Stump Grinding,60+ in,Single stump,Quote on-site,Multi-pass or large grinder.
+Stump Grinding,Multi-stump 5+,Per visit,10% off total,Discount applied when 5+ stumps booked together.
+Stump Grinding,Multi-stump 10+,Per visit,15% off total,Discount applied when 10+ stumps booked together.
+Brush Pile Removal,Pickup-truck size,Haul-off,$275.00,
+Brush Pile Removal,Pickup-truck size,Push/burn on-site (rural),$185.00,Minimum charge.
+Brush Pile Removal,Single-axle dump load,Haul-off,$475.00,
+Brush Pile Removal,Single-axle dump load,Push/burn on-site (rural),$325.00,
+Brush Pile Removal,Tandem dump load,Haul-off,$850.00,
+Brush Pile Removal,Tandem dump load,Push/burn on-site (rural),$585.00,
+Brush Pile Removal,Multi-load / debris field,Any disposal,Quote on-site,
+Small Demolition,8x10 shed (no concrete),Standard demo,"$850.00 - $1,250.00",Half-day work.
+Small Demolition,10x12 shed,Standard demo,"$1,450.00 - $2,250.00",Most common.
+Small Demolition,12x16 shed,Standard demo,"$2,250.00 - $3,500.00",Often full day.
+Small Demolition,20x20 detached garage,Standard demo,"$4,500.00 - $7,500.00",Quote on-site.
+Small Demolition,Wood deck 10x12,Removal + dump,"$850.00 - $1,650.00",
+Small Demolition,Wood deck 15x20,Removal + dump,"$1,650.00 - $2,950.00",
+Small Demolition,Chain-link fence,Per linear foot,$5.50 - $7.50/ft,Includes haul-off.
+Small Demolition,Wood privacy fence,Per linear foot,$6.50 - $9.50/ft,Includes haul-off.
+Small Demolition,Concrete pad (4 in thick),Per square foot,$4.00 - $8.00/sq ft,Plus dump fee.
+Pothole Repair,Single (1 hole),Package,$185.00,Mobilization-driven minimum.
+Pothole Repair,Small (2-4 holes),Package,$450.00,Most common residential.
+Pothole Repair,Medium (5-10 holes),Package,$850.00,Half-day equivalent.
+Pothole Repair,Large (11-20 holes),Package,"$1,450.00",Includes light grading touch-up.
+Pothole Repair,Driveway-wide (20+ holes),Package,Refer to Driveway Refresh,
+Tree Removal,Up to 6 in trunk,Accessible small tree,$185.00 - $285.00,Multi-tree discount available.
+Tree Removal,6-10 in trunk,Accessible small tree,$285.00 - $485.00,
+Tree Removal,10-14 in trunk,Accessible small tree,$485.00 - $725.00,Most common quote.
+Tree Removal,14-18 in trunk,Accessible small tree,"$725.00 - $1,150.00",Push-over candidates if open area.
+Tree Removal,18-24 in trunk,Accessible small tree,"$1,150.00 - $1,850.00",Refer if hazardous.
+Tree Removal,24+ in or near structures,Outside scope,Refer to climbing arborist,Not offered by FCLS.
