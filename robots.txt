@@ -1,0 +1,30 @@
+# Fountain City Land Services — robots.txt
+# https://www.fclandservices.com/
+
+User-agent: *
+Allow: /
+
+# Don't index post-submit confirmation page
+Disallow: /thank-you.html
+
+# AI crawlers — explicitly allow major reputable bots
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Sitemap
+Sitemap: https://www.fclandservices.com/sitemap.xml
