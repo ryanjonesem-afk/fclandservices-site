@@ -849,6 +849,8 @@ footer { background: var(--charcoal-dark); padding: 64px 60px 40px; border-top: 
 }
 .section-toc a:hover { color: var(--green); border-bottom-color: var(--green); }
 @media (max-width: 960px) {
+  /* Mobile: horizontal scroll keeps the TOC tight to one row so it doesn't eat vertical space.
+     Scroll-padding + trailing padding ensure first/last items aren't clipped at the edges. */
   .section-toc {
     padding: 10px 16px;
     overflow-x: auto;
@@ -858,8 +860,12 @@ footer { background: var(--charcoal-dark); padding: 64px 60px 40px; border-top: 
   .section-toc-inner {
     flex-wrap: nowrap;
     padding-left: 4px;
-    padding-right: 16px; /* trailing space so the last item isn't clipped at the edge when scrolled to end */
+    padding-right: 16px;
+    gap: 18px;
   }
+  /* Make the "On this page:" label readable on mobile — darker + bolder so it doesn't disappear */
+  .section-toc-label { color: var(--charcoal-dark); font-weight: 700; font-size: 12px; letter-spacing: 1.8px; }
+  .section-toc a { font-size: 14px; }
 }
 
 /* ── LIGHTBOX (click-to-zoom for any .zoomable image) ── */
