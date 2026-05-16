@@ -1,5 +1,5 @@
 # Fountain City Land Services — robots.txt
-# https://www.fclandservices.com/
+# https://fclandservices.com/
 
 User-agent: *
 Allow: /
@@ -27,4 +27,4 @@ User-agent: anthropic-ai
 Allow: /
 
 # Sitemap
-Sitemap: https://www.fclandservices.com/sitemap.xml
+Sitemap: https://fclandservices.com/sitemap.xml

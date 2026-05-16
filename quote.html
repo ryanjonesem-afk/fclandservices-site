@@ -7,7 +7,7 @@
 
   <title>Request a Quote | Free Estimates | Fountain City Land Services</title>
   <meta name="description" content="Request a free estimate from Fountain City Land Services — land services, driveway restoration, grading, rural property cleanup, SWPPP, BMP, and environmental services in Spring Hill, Johnson County, Miami County, and the Kansas City metro.">
-  <link rel="canonical" href="https://www.fclandservices.com/quote.html">
+  <link rel="canonical" href="https://fclandservices.com/quote.html">
 
   <!-- Geo signals -->
   <meta name="geo.region" content="US-KS">
@@ -18,10 +18,10 @@
   <!-- Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Fountain City Land Services">
-  <meta property="og:url" content="https://www.fclandservices.com/quote.html">
+  <meta property="og:url" content="https://fclandservices.com/quote.html">
   <meta property="og:title" content="Request a Free Quote | Fountain City Land Services">
   <meta property="og:description" content="Free estimates on land services, SWPPP, and environmental field work across Spring Hill, KS and the Kansas City metro. Most quotes returned within 24 hours.">
-  <meta property="og:image" content="https://www.fclandservices.com/assets/images/projects/stormwater-channel-after.jpg">
+  <meta property="og:image" content="https://fclandservices.com/assets/images/projects/stormwater-channel-after.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:locale" content="en_US">
@@ -30,7 +30,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Request a Free Quote | Fountain City Land Services">
   <meta name="twitter:description" content="Free estimates on land services and environmental field work. Most quotes returned within 24 hours.">
-  <meta name="twitter:image" content="https://www.fclandservices.com/assets/images/projects/stormwater-channel-after.jpg">
+  <meta name="twitter:image" content="https://fclandservices.com/assets/images/projects/stormwater-channel-after.jpg">
 
   <!-- Performance hints -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -52,8 +52,8 @@
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.fclandservices.com/"},
-      {"@type": "ListItem", "position": 2, "name": "Request a Quote", "item": "https://www.fclandservices.com/quote.html"}
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://fclandservices.com/"},
+      {"@type": "ListItem", "position": 2, "name": "Request a Quote", "item": "https://fclandservices.com/quote.html"}
     ]
   }
   </script>
@@ -63,18 +63,18 @@
   {
     "@context": "https://schema.org",
     "@type": "ContactPage",
-    "@id": "https://www.fclandservices.com/quote.html#contactpage",
-    "url": "https://www.fclandservices.com/quote.html",
+    "@id": "https://fclandservices.com/quote.html#contactpage",
+    "url": "https://fclandservices.com/quote.html",
     "name": "Request a Quote — Fountain City Land Services",
     "description": "Request a free estimate for land services, SWPPP, BMP, or environmental field work across Spring Hill, KS and the Kansas City metro.",
     "inLanguage": "en-US",
     "mainEntity": {
       "@type": "LocalBusiness",
-      "@id": "https://www.fclandservices.com/#business",
+      "@id": "https://fclandservices.com/#business",
       "name": "Fountain City Land Services",
       "telephone": "+1-913-732-0069",
       "email": "quotes@fclandservices.com",
-      "url": "https://www.fclandservices.com/",
+      "url": "https://fclandservices.com/",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Spring Hill",
@@ -150,36 +150,50 @@
 .pf-note a { color:var(--green); text-decoration:none; }
 .pf-note a:hover { text-decoration:underline; }
 
-.pf-urgent {
-  display:flex; align-items:center; gap:14px;
-  margin-top:18px; padding:16px 20px;
+.pf-urgent-wrap {
+  margin-top:18px; padding:14px 18px 16px;
   background: linear-gradient(135deg, rgba(74,127,165,0.08) 0%, rgba(122,184,204,0.12) 100%);
   border: 1px solid rgba(74,127,165,0.25);
   border-left: 4px solid var(--blue-steel);
   border-radius: var(--radius-sm);
-  text-decoration:none;
-  transition: background 0.2s, border-color 0.2s, transform 0.15s;
 }
-.pf-urgent:hover {
-  background: linear-gradient(135deg, rgba(74,127,165,0.12) 0%, rgba(122,184,204,0.18) 100%);
-  border-color: var(--blue-steel);
-  transform: translateY(-1px);
-}
-.pf-urgent svg { width:24px; height:24px; color: var(--blue-steel); flex-shrink:0; }
-.pf-urgent-text { display:flex; flex-direction:column; line-height:1.25; }
 .pf-urgent-label {
   font-family:'Barlow Condensed', sans-serif;
-  font-weight:700; font-size:12px;
+  font-weight:700; font-size:13px;
   letter-spacing:1.8px; text-transform:uppercase;
   color: var(--blue-steel);
+  margin-bottom:10px;
 }
 .pf-urgent-number {
   font-family:'Barlow Condensed', sans-serif;
-  font-weight:700; font-size:20px;
+  font-weight:800; font-size:18px;
   color: var(--charcoal-dark);
   letter-spacing:0.3px;
-  margin-top:2px;
+  margin-left:6px;
 }
+.pf-urgent-actions { display:flex; gap:10px; }
+.pf-urgent {
+  flex:1;
+  display:flex; align-items:center; justify-content:center; gap:10px;
+  padding:12px 14px;
+  background: #fff;
+  border: 1px solid rgba(74,127,165,0.35);
+  border-radius: var(--radius-sm);
+  text-decoration:none;
+  font-family:'Barlow Condensed', sans-serif;
+  font-weight:700; font-size:15px;
+  letter-spacing:1.5px; text-transform:uppercase;
+  color: var(--charcoal-dark);
+  transition: background 0.18s, border-color 0.18s, transform 0.15s;
+}
+.pf-urgent:hover {
+  background: var(--blue-steel);
+  border-color: var(--blue-steel);
+  color: #fff;
+  transform: translateY(-1px);
+}
+.pf-urgent:hover svg { color: #fff; }
+.pf-urgent svg { width:18px; height:18px; color: var(--blue-steel); flex-shrink:0; transition: color 0.18s; }
 
 .quote-sidebar { display:flex; flex-direction:column; gap:20px; position:sticky; top:88px; }
 .sidebar-card {
@@ -202,9 +216,11 @@
   color: var(--green);
 }
 .contact-row-icon svg { width:18px; height:18px; }
-.contact-row-text a,.contact-row-text span { display:block; font-size:14px; color:var(--text-dark); text-decoration:none; transition:color 0.2s; font-weight:500; }
-.contact-row-text a:hover { color:var(--green); }
+.contact-row-text > a,.contact-row-text > span { display:block; font-size:14px; color:var(--text-dark); text-decoration:none; transition:color 0.2s; font-weight:500; }
+.contact-row-text > a:hover { color:var(--green); }
 .contact-row-text small { font-size:11px; color:var(--text-light); font-weight:300; display:block; margin-top:2px; }
+.contact-row-text small a { color:var(--green); text-decoration:none; font-weight:600; transition:color 0.2s; }
+.contact-row-text small a:hover { color:var(--green-dark); text-decoration:underline; }
 .expect-list { list-style:none; display:flex; flex-direction:column; gap:11px; padding:0; margin:0; }
 .expect-list li { font-size:14px; color:var(--text-mid); display:flex; gap:10px; align-items:flex-start; font-weight:300; line-height:1.55; }
 .expect-list li::before { content:"✓"; color:var(--green); font-weight:700; font-size:13px; flex-shrink:0; margin-top:1px; }
@@ -283,7 +299,7 @@
          placeholder, so it stays dormant while Formspree is live. -->
     <form id="quoteForm" action="https://formspree.io/f/mojrbjlj" method="POST" novalidate>
       <input type="hidden" name="_subject" value="New Quote Request — Fountain City Land Services">
-      <input type="hidden" name="_next" value="https://www.fclandservices.com/thank-you.html">
+      <input type="hidden" name="_next" value="https://fclandservices.com/thank-you.html">
       <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" style="position:absolute;left:-10000px;width:1px;height:1px;opacity:0;" aria-hidden="true">
 
       <div class="pf-grid">
@@ -348,6 +364,7 @@
               <option>BMP Installation</option>
               <option>BMP Maintenance</option>
               <option>Erosion Control</option>
+              <option>Dewatering Coordination / Field Support</option>
               <option>Environmental Field Documentation</option>
               <option>Soil / Groundwater Sampling Support</option>
               <option>Environmental Incident Response</option>
@@ -377,19 +394,25 @@
         <div class="pf-group full">
           <label for="qf-access">Access or Site Conditions to Know About?</label>
           <textarea id="qf-access" name="access" style="min-height:70px;" placeholder="Gates, low overhead, wet or steep ground, neighboring property concerns, active construction, etc."></textarea>
-          <p class="pf-helper">Have photos? Text them to <a href="tel:+19137320069" style="color:var(--green);">913-732-0069</a> after submitting — easier than uploading.</p>
+          <p class="pf-helper">Have photos? Text them to <a href="sms:+19137320069" style="color:var(--green);">913-732-0069</a> after submitting — easier than uploading.</p>
         </div>
       </div>
       <button type="submit" class="pf-submit">Submit Quote Request &rarr;</button>
       <p class="pf-note">We typically respond within one business day.</p>
 
-      <a href="tel:+19137320069" class="pf-urgent" aria-label="Call or text 913-732-0069">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-        <span class="pf-urgent-text">
-          <span class="pf-urgent-label">Need it sooner?</span>
-          <span class="pf-urgent-number">Call or text 913-732-0069</span>
-        </span>
-      </a>
+      <div class="pf-urgent-wrap" role="group" aria-label="Urgent contact options">
+        <div class="pf-urgent-label">Need it sooner? <span class="pf-urgent-number">913-732-0069</span></div>
+        <div class="pf-urgent-actions">
+          <a href="tel:+19137320069" class="pf-urgent pf-urgent-call" aria-label="Call 913-732-0069">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            Call
+          </a>
+          <a href="sms:+19137320069" class="pf-urgent pf-urgent-text" aria-label="Text 913-732-0069">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+            Text
+          </a>
+        </div>
+      </div>
     </form>
   </div>
 
@@ -401,8 +424,8 @@
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
         </div>
         <div class="contact-row-text">
-          <a href="tel:+19137320069">913-732-0069</a>
-          <small>Call or text — both work</small>
+          <span class="contact-row-number">913-732-0069</span>
+          <small><a href="tel:+19137320069">Call</a> &middot; <a href="sms:+19137320069">Text</a></small>
         </div>
       </div>
       <div class="contact-row">
@@ -491,7 +514,11 @@
 <div class="mobile-cta-bar" role="region" aria-label="Quick contact">
   <a href="tel:+19137320069" class="mcta-call" aria-label="Call 913-732-0069">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-    Call / Text
+    Call
+  </a>
+  <a href="sms:+19137320069" class="mcta-text" aria-label="Text 913-732-0069">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+    Text
   </a>
   <a href="mailto:quotes@fclandservices.com" class="mcta-quote">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
