@@ -1,10 +1,14 @@
 # Fountain City Land Services
-## 2026 Pricing Summary
+## 2026 Service Pricing Guide
 
 *Spring Hill, KS · Kansas City Metro · Owner-Operated · Tracked Bobcat Equipment*
 *"The right response. Every time."*
 
-**Free quotes · Insured · Local · Before & after photos available**
+**Call/Text: 913-732-0069 · [quotes@fclandservices.com](mailto:quotes@fclandservices.com) · fclandservices.com**
+
+**Free quotes · Owner-operated · Tracked Bobcat equipment**
+
+> *Prices are intended as a general guide. Final pricing is based on site access, terrain, distance, materials, disposal needs, equipment/attachment requirements, and on-site verification.*
 
 ---
 
@@ -33,15 +37,17 @@
 
 ---
 
-## Acreage Mowing & Vegetation
+## Acreage Cutting & Brush Mowing
+
+> *Rough-cut acreage and brush mowing only. Not finish lawn mowing.*
 
 | Service | Pricing | Minimum |
 |---|---|---|
-| Acreage mowing (tall grass / pasture) | From $195 per acre | $450 |
+| Acreage cutting / brush mowing (tall grass or pasture) | From $195 per acre | $450 |
 | Heavy brush cutting | $235 per hour | $850 |
 | Fence line cleanup | From $4.50 per linear foot | $750 |
 
-**Acreage mowing quick reference:**
+**Acreage cutting quick reference:**
 
 | Acres | Light grass | Tall / pasture | Heavy brush |
 |---|---|---|---|
@@ -60,12 +66,12 @@
 
 | Service | Pricing | Minimum |
 |---|---|---|
-| Brush pile removal (pickup-truck size, haul-off) | $275 | $450 |
-| Brush pile removal (rural burn on-site) | $185 | $185 |
+| Brush pile haul-off (pickup-truck size) | From $275 per pile | $450 minimum haul-off visit |
+| Brush pile burn-on-site (rural) | From $185 where legally allowed, safe, and approved by property owner | $185 |
 | General property cleanup | $185 per hour | $625 (half day) |
 | Storm cleanup (emergency) | $215 per hour | $860 (4-hr min) |
 
-Storm cleanup +25% emergency surcharge when booked within 48 hours of weather event.
+Storm cleanup +25% emergency surcharge when booked within 48 hours of a weather event.
 
 ---
 
@@ -103,6 +109,8 @@ Multi-stump discount: 5+ stumps = 10% off · 10+ stumps = 15% off.
 
 Mobilization included within 25 miles.
 
+> *Prices include equipment and operator unless noted. Materials, gravel, dump fees, disposal, permits, subcontractors, rental attachments, and additional mobilization are billed separately unless included in the written estimate.*
+
 ---
 
 ## Service Packages
@@ -113,7 +121,7 @@ Mobilization included within 25 miles.
 | **Driveway Refresh** | 12 tons AB-3 delivered & spread, 6 potholes repaired, light grading | $1,995 |
 | **Storm Cleanup** | 6 hrs grapple work, 3 brush piles cleared, 1 small tree removal, driveway access restoration | $1,950 |
 | **Fence Line Recovery** | 500 ft cleared (medium density), brush haul-off, 3 corner stumps, 1 hr finish grade | $4,250 |
-| **Acreage Maintenance — Per Visit** | 5 acres mowed, 250 ft fence-line touch-up, 1 brush pile cleared | $1,375 |
+| **Acreage Maintenance — Per Visit** | 5 acres cut, 250 ft fence-line touch-up, 1 brush pile cleared | $1,375 |
 | **Acreage Maintenance — 3-Visit Season** | Three visits May–October | $3,750 (saves $375) |
 
 ---
@@ -130,14 +138,18 @@ Mobilization included within 25 miles.
 
 ---
 
-## Travel & Service Area
+## Mobilization & Extended Service Area
 
-| Distance from Spring Hill, KS | Travel Charge |
+Fountain City Land Services serves the Kansas City metro and surrounding rural communities. Regional work up to 50 miles outside the KC metro may be available for larger projects or when mobilization makes sense.
+
+| Distance from Spring Hill, KS | Mobilization |
 |---|---|
-| 0–25 mi (Olathe, Gardner, Stilwell, OP, Lenexa, Louisburg) | Included |
-| 25–40 mi (South KC, Lee's Summit, Paola) | $145 |
-| 40–60 mi (Independence, Ottawa, Belton) | $235 |
-| 60+ mi | $4.25 per mile, round trip |
+| 0–25 miles | Included |
+| 25–40 miles | $145 |
+| 40–60 miles | $235 |
+| 60+ miles / regional work | Quoted based on distance, project size, equipment needs, and schedule |
+
+> *Mobilization may be waived or rolled into larger quoted projects.*
 
 ---
 
@@ -151,6 +163,8 @@ Mobilization included within 25 miles.
 | Sunday / holiday | +35% |
 | After-hours (after 6 PM) | +20% |
 
+> *Surcharges may apply for rush, emergency, weekend, holiday, or after-hours work. Surcharges are confirmed in the written estimate before work begins.*
+
 ---
 
 ## How We Quote
@@ -159,8 +173,19 @@ Mobilization included within 25 miles.
 - Walk-throughs scheduled the same week when possible
 - Written estimates valid for 30 days
 - 25% deposit reserves your spot on jobs over $1,500
+- **Material deposits may be required before gravel, rental attachments, disposal, or subcontractors are scheduled**
 - Payment in full on completion — card, ACH, check, or cash
 - Net-15 invoicing available for repeat customers
+
+---
+
+## Ready to Get Started?
+
+**Call/Text: 913-732-0069**
+**Email: [quotes@fclandservices.com](mailto:quotes@fclandservices.com)**
+**Online: fclandservices.com**
+
+Free quotes. Honest pricing. No surprises.
 
 ---
 
